@@ -1,0 +1,4 @@
+{
+  products: @view,
+  p: "Hello",
+}
